@@ -1,0 +1,16 @@
+{
+	"cwd": "/var/www/html/svelte-sport",
+	"type": ["web", "pwa"],
+	"name": "Svelte Sport",
+	"framework": "svelte",
+	"template": "single-view",
+	"cssPreProcessor": "less",
+	"bundler": "vite",
+	"theming": {
+		"customColor": false,
+		"color": "#ff0000",
+		"darkMode": true,
+		"iconFonts": true
+	},
+	"customBuild": false
+}
