@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/68caf6a1-9191-4cc0-a063-91c052eef83c/deploy-status)](https://app.netlify.com/sites/svelte-sport/deploys)
+
 # Svelte Sport
 
 ## Framework7 CLI Options
