@@ -38,7 +38,7 @@
 	let sports = useStore('sports', (value) => (sports = value))
 	let countries = useStore('countries', (value) => (countries = value))
 
-	$: hotSports = sports.slice(0, 3)
+	$: hotSports = sports.slice(0, 2)
 	$: [date, sport], [fetchMatches(), fetchTVMatches(), fetchHighlights()]
 	$: [sport], fetchLiveMatches()
 
